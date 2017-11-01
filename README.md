@@ -1,0 +1,2 @@
+# ActivemqClient
+Spring整合的Activemq客户端，陪着Test工程建立
